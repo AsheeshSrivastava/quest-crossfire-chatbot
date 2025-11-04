@@ -4,7 +4,7 @@
 
 A professional, multi-session chatbot with AI persona switching, persistent storage, and conversation export capabilities. Built as part of the OutSkill AI Engineering Bootcamp 2025.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 
@@ -180,7 +180,7 @@ Export any chat in three formats:
 quest-crossfire-chatbot/
 ├── app.py                        # Main Streamlit application
 ├── requirements.txt              # Python dependencies
-├── LICENSE                       # GPL-3.0 license
+├── LICENSE                       # AGPL-3.0 license
 ├── README.md                     # This file
 ├── .gitignore                    # Git ignore rules
 ├── .streamlit/
@@ -210,7 +210,7 @@ quest-crossfire-chatbot/
 1. ✅ Comprehensive code documentation
 2. ✅ Proper project structure
 3. ✅ Git version control
-4. ✅ Open source licensing (GPL-3.0)
+4. ✅ Open source licensing (AGPL-3.0)
 5. ✅ Transparent AI attribution
 6. ✅ Deployment-ready code
 7. ✅ User-focused design
@@ -292,23 +292,31 @@ quest-crossfire-chatbot/
 
 ## 📄 License
 
-This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **AGPL-3.0 License** - see the [LICENSE](LICENSE) file for details.
 
 **What this means:**
 - ✅ You can use, modify, and distribute this code
 - ✅ You can create commercial applications
-- ⚠️ You must keep the same GPL-3.0 license
+- ✅ **Network use requires source disclosure** (AGPL requirement)
+- ⚠️ You must keep the same AGPL-3.0 license
 - ⚠️ You must credit QUEST AND CROSSFIRE™
 - ⚠️ You cannot use QUEST AND CROSSFIRE™ branding
+
+### Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
+- Development setup
+- Code standards
+- Pull request process
+- Testing requirements
 
 ---
 
 ## 🏷️ Trademark Notice
 
-**QUEST AND CROSSFIRE™** is a trademark.
-Trademark filings in process.
+**QUEST AND CROSSFIRE™** is a trademark (Filed - awaiting certification).
 
-While this code is open source (GPL-3.0), the QUEST AND CROSSFIRE™ brand name is a protected trademark. Please use your own branding when creating derivatives.
+While this code is open source (AGPL-3.0), the QUEST AND CROSSFIRE™ brand name is a protected trademark. Please use your own branding when creating derivatives.
 
 ---
 
