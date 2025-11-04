@@ -275,7 +275,8 @@ This means:
 ## ❓ Questions & Support
 
 - **Issues:** [GitHub Issues](https://github.com/AsheeshSrivastava/quest-crossfire-chatbot/issues)
-- **Email:** asheeshsrivastava9@gmail.com
+- **Email:** asheesh.srivastava@questabdcrossfire.com
+- **LinkedIn:** [linkedin.com/in/asheesh-ranjan-srivastava](https://www.linkedin.com/in/asheesh-ranjan-srivastava/)
 - **Documentation:** Check README.md and code comments
 
 ## 🙏 Acknowledgments
